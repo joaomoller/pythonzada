@@ -10,5 +10,3 @@ elif True:
     print('mais uma verdadeira')
 else:
     print('nao é verdadeiro')
-
-piroquinha das ideia
