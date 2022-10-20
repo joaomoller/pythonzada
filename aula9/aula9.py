@@ -11,4 +11,4 @@ elif True:
 else:
     print('nao é verdadeiro')
 
-print('salve')
+piroquinha das ideia
